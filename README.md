@@ -1,2 +1,2 @@
-# web_design
-My attempt to make a website
+# web_app
+My attempt to make a webapp
